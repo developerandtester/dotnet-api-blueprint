@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ProjectsCSharp\\MyBlueprintApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F6B7C8A-8611-411F-9C98-0F30B6E84272}|MyBlueprintApi\\MyBlueprintApi.csproj|d:\\projectscsharp\\myblueprintapi\\myblueprintapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F6B7C8A-8611-411F-9C98-0F30B6E84272}|MyBlueprintApi\\MyBlueprintApi.csproj|solutionrelative:myblueprintapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ProjectsCSharp\\MyBlueprintApi\\MyBlueprintApi\\Program.cs",
+              "RelativeDocumentMoniker": "MyBlueprintApi\\Program.cs",
+              "ToolTip": "D:\\ProjectsCSharp\\MyBlueprintApi\\MyBlueprintApi\\Program.cs",
+              "RelativeToolTip": "MyBlueprintApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T22:06:44.304Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

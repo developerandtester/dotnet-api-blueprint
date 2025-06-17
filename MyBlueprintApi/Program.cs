@@ -1,8 +1,18 @@
+﻿using Microsoft.AspNetCore.Builder;
+using Microsoft.OpenApi.Models; // ✅ For Swagger options
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
 builder.Services.AddOpenApi();
+builder.Services.AddControllers(); // ✅ Required for controller-based APIs
+builder.Services.AddEndpointsApiExplorer(); // ✅ Enables minimal Swagger
+builder.Services.AddSwaggerGen(c =>           // ✅ Adds Swagger generation
+{
+    c.SwaggerDoc("v1", new OpenApiInfo { Title = "My API", Version = "v1" });
+});
+
+;           // ✅ required for Swagger
 
 var app = builder.Build();
 
@@ -10,9 +20,15 @@ var app = builder.Build();
 if (app.Environment.IsDevelopment())
 {
     app.MapOpenApi();
+    app.UseSwagger();                       // ✅ enable Swagger middleware
+    app.UseSwaggerUI();                     // ✅ enable Swagger UI
 }
 
 app.UseHttpsRedirection();
+
+app.UseAuthorization();
+
+app.MapControllers();
 
 var summaries = new[]
 {

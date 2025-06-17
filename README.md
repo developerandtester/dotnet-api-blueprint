@@ -1,3 +1,6 @@
+![CI](https://github.com/developerandtester/dotnet-api-blueprint/actions/workflows/ci.yml/badge.svg)
+
+
 <<<<<<< HEAD
 ﻿# MyBlueprintApi
 
@@ -10,7 +13,7 @@ A minimal .NET 8 Web API scaffold with:
 
 ## Quick Start
 
-`ash
+Bash
 dotnet build
 dotnet test
 dotnet run --project MyBlueprintApi
