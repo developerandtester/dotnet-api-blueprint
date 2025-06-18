@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "D:\\ProjectsCSharp\\MyBlueprintApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{380B6C40-B8CF-484A-AEC9-C30998A6B50B}|Tests\\Tests.csproj|d:\\projectscsharp\\myblueprintapi\\tests\\todocontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{380B6C40-B8CF-484A-AEC9-C30998A6B50B}|Tests\\Tests.csproj|solutionrelative:tests\\todocontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1F6B7C8A-8611-411F-9C98-0F30B6E84272}|MyBlueprintApi\\MyBlueprintApi.csproj|d:\\projectscsharp\\myblueprintapi\\myblueprintapi\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1F6B7C8A-8611-411F-9C98-0F30B6E84272}|MyBlueprintApi\\MyBlueprintApi.csproj|solutionrelative:myblueprintapi\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -31,19 +27,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "TodoControllerTests.cs",
-              "DocumentMoniker": "D:\\ProjectsCSharp\\MyBlueprintApi\\Tests\\TodoControllerTests.cs",
-              "RelativeDocumentMoniker": "Tests\\TodoControllerTests.cs",
-              "ToolTip": "D:\\ProjectsCSharp\\MyBlueprintApi\\Tests\\TodoControllerTests.cs",
-              "RelativeToolTip": "Tests\\TodoControllerTests.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T23:05:25.208Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "ToDoController.cs",
               "DocumentMoniker": "D:\\ProjectsCSharp\\MyBlueprintApi\\MyBlueprintApi\\Controllers\\ToDoController.cs",
               "RelativeDocumentMoniker": "MyBlueprintApi\\Controllers\\ToDoController.cs",
@@ -56,7 +39,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "ToDoItem.cs",
               "DocumentMoniker": "D:\\ProjectsCSharp\\MyBlueprintApi\\MyBlueprintApi\\Models\\ToDoItem.cs",
               "RelativeDocumentMoniker": "MyBlueprintApi\\Models\\ToDoItem.cs",
@@ -69,7 +52,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\ProjectsCSharp\\MyBlueprintApi\\MyBlueprintApi\\Program.cs",
               "RelativeDocumentMoniker": "MyBlueprintApi\\Program.cs",
